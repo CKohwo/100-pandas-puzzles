@@ -1,3 +1,18 @@
+# 🔍 Charles' Pandas Puzzle Journey
+
+> 🧠 This is a **personal learning fork** of the original [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) created by [@ajcr](https://github.com/ajcr).  
+> I'm using this repo as a **public learning log** — solving the puzzles, documenting my thought process, and sharpening my fluency in Pandas.
+
+My additions include:
+- ✅ My **own step-by-step solutions** in Jupyter Notebooks/vscode
+- 📓 Annotated explanations with focus on *why* each solution works
+- 🧠 Occasional performance tips, visualizations, and alternative approaches
+
+This is part of my broader journey into Data Science mastery.  
+The original README continues below — all credit and puzzle content belong to the author under MIT License. 🙏
+
+---
+ 
 # 100 pandas puzzles
 
 ### [Puzzles notebook](https://github.com/ajcr/100-pandas-puzzles/blob/master/100-pandas-puzzles.ipynb)
